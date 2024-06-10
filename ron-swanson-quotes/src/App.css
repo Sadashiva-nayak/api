@@ -1,0 +1,20 @@
+/* src/App.css */
+.app {
+  text-align: center;
+  padding: 32px;
+  font-family: Arial, sans-serif;
+}
+
+.app button {
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 8px 16px;
+  cursor: pointer;
+  margin-top: 16px;
+}
+
+.app button:hover {
+  background-color: #218838;
+}
